@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://taro.suimugame.com:9204/ipa/Taro.ipa</string>
+					<string>https://122.14.46.108:9204/ipa/Taro.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://taro.suimugame.com:9204/ipa/taro.png</string>
+					<string>https://122.14.46.108:9204/ipa/taro.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://taro.suimugame.com:9204/ipa/taro_full.png</string>
+					<string>https://122.14.46.108:9204/ipa/taro_full.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
